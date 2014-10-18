@@ -405,6 +405,7 @@
 				7A9C6A2519DED09500E60A19 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7A9C6A2619DED09500E60A19 /* Build configuration list for PBXNativeTarget "LoveFinderTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +414,7 @@
 				7A9C6A2819DED09500E60A19 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
